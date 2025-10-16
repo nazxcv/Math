@@ -92,7 +92,6 @@
       {
         "id": "1e0cb8f6008db019",
         "type": "tabs",
-        "dimension": 70.23809523809524,
         "children": [
           {
             "id": "c8af8fe6b57ded34",
@@ -103,16 +102,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          }
-        ]
-      },
-      {
-        "id": "36d2bf9fec64f413",
-        "type": "tabs",
-        "dimension": 29.761904761904766,
-        "children": [
+          },
           {
-            "id": "6b93da4be8e0eb61",
+            "id": "cdd7c630cb056ed2",
             "type": "leaf",
             "state": {
               "type": "tag",

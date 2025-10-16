@@ -11,8 +11,7 @@
     "node_modules/",
     "public/",
     "quartz/",
-    "template/",
-    "*.webp"
+    "template/"
   ],
   "alwaysUpdateLinks": true,
   "showRibbon": false
