@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4fb2eba91340d579",
+    "type": "split",
+    "children": [
+      {
+        "id": "96e19db068221c35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ce671e3e739b9f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/index.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          },
+          {
+            "id": "f21161658d8e501e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/Arithmetic.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Arithmetic"
+            }
+          },
+          {
+            "id": "592b33ec253225c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/Arithmetic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Arithmetic"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "36cc50d0d133fd91",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e0cb8f6008db019",
+        "type": "tabs",
+        "dimension": 70.23809523809524,
+        "children": [
+          {
+            "id": "c8af8fe6b57ded34",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "36d2bf9fec64f413",
+        "type": "tabs",
+        "dimension": 29.761904761904766,
+        "children": [
+          {
+            "id": "6b93da4be8e0eb61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "templater-obsidian:Templater": true,
+      "graph:Open graph view": true,
+      "homepage:Open homepage": true
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "content/index.md",
+    "content/index-1760629318386.webp",
+    "content/ss.webp",
+    "content/index-1760629169400.webp",
+    "content/Proposition.md",
+    "content/Set.md",
+    "content/Math.md",
+    "src/settings.ts.md",
+    "src",
+    "content/Arithmetic.md",
+    "public/index-og-image.webp",
+    "content/t.md",
+    "public/Untitled-og-image.webp",
+    "public/Untitled.html",
+    "public/Arithmetic-og-image.webp",
+    "public/Arithmetic.html",
+    "public/postscript.js",
+    "public/prescript.js",
+    "public/static/giscus/light.css",
+    "public/static/giscus/dark.css",
+    "public/static/giscus",
+    "public/static/contentIndex.json",
+    "public/index.css",
+    "public/static/og-image.png",
+    "public/static/icon.png",
+    "content/test.md",
+    "content/test right now.md",
+    "content/Test.md",
+    "test/fixtures.json.md",
+    "tests.md",
+    "Untitled.md",
+    "content/aL.md",
+    "content/Prealgebra.md",
+    "public/TEst-og-image.webp",
+    "public/Prealgebra-og-image.webp",
+    "template/template.md",
+    "README.md",
+    "CODE_OF_CONDUCT.md",
+    "Prealgebra.md",
+    "Arithmet.md",
+    "index.md",
+    "Arithmetic.md",
+    "Welcome.md"
+  ]
+}

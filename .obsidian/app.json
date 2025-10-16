@@ -1,0 +1,19 @@
+{
+  "vimMode": true,
+  "tabSize": 2,
+  "strictLineBreaks": true,
+  "trashOption": "system",
+  "promptDelete": false,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content",
+  "userIgnoreFilters": [
+    "node_modules/",
+    "public/",
+    "quartz/",
+    "template/",
+    "*.webp"
+  ],
+  "alwaysUpdateLinks": true,
+  "showRibbon": false
+}
